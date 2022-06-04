@@ -1,9 +1,9 @@
-# Landing Page Alucar
+# Landing Page | Alucar
 
 #### 🖥️ Screenshot | Demo
 
 <div align="left">
-<img src="" alt="alucar" width="70%">
+<img src="https://raw.githubusercontent.com/italoruan77/Landing-Page-ALUCAR-/main/img/screenshot.png" alt="alucar" width="70%">
 </div>
 
 <br/>
